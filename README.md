@@ -1,4 +1,5 @@
-# ExpenseTeam members :
+# ExpenseTracker
+Team members :
 1)SaiTeja
 2)Janagam Mrunal Reddy
 3)Nithish D
