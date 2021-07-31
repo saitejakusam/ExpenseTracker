@@ -8,9 +8,9 @@
 3)Nithish D<br>
 4)<br>
 <br>
-#Expense Trcaker Using JAVA SpringBoot 
+#Expense Tracker Using JAVA SpringBoot 
 
-<h3>Functionalities :<h3><br>
+<h3>Functionalities :</h3><br>
 -Register and Login<br>
 -Add amount to account <br>
 -Make Expenses<br>
