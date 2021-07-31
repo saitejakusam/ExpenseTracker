@@ -1,11 +1,13 @@
 # ExpenseTracker
-Team members :<br>
+
+
+<h2>Team members :</h2><br>
 1)SaiTeja<br>
 2)Janagam Mrunal Reddy<br>
 3)Nithish D<br>
 4)<br>
 <br>
-Expense Trcaker Using JAVA SpringBoot 
+#Expense Trcaker Using JAVA SpringBoot 
 
 Functionalities :
 -Register and Login
