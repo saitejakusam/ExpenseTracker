@@ -1,7 +1,7 @@
 # ExpenseTracker
 
 
-<h2> Link : </h2> <p>https://quiet-plateau-64131.herokuapp.com/ </p>
+<h2>Website Link : </h2> <p>https://quiet-plateau-64131.herokuapp.com/ </p>
 <h2>Team members :</h2><br>
 1)SaiTeja<br>
 2)Janagam Mrunal Reddy<br>
@@ -21,7 +21,6 @@
 <h2>Screenshots:</h2><br><br>
 <br>
 ![image](https://user-images.githubusercontent.com/48819675/127738525-2c4ed075-9a0c-4de9-9da3-04d2bd1e1b5f.png)
-
 ![image](https://user-images.githubusercontent.com/48819675/127691262-445f7331-758a-4f68-9e2b-d5f17144c48e.png)
 ![image](https://user-images.githubusercontent.com/48819675/127691290-243454a8-8e33-43e6-8152-aafd83a8f96e.png)
 ![image](https://user-images.githubusercontent.com/48819675/127691319-d23eeb13-8914-42d7-88b0-ff0da8570c0e.png)
