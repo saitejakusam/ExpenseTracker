@@ -10,7 +10,7 @@
 <br>
 #Expense Trcaker Using JAVA SpringBoot 
 
-Functionalities :<br>
+<h3>Functionalities :<h3><br>
 -Register and Login<br>
 -Add amount to account <br>
 -Make Expenses<br>
@@ -18,7 +18,7 @@ Functionalities :<br>
 -Updates amount based on expense<br>
 <br>
 <br>
-Screenshots:<br><br>
+<h2>Screenshots:</h2><br><br>
 <br>
 ![image](https://user-images.githubusercontent.com/48819675/127738525-2c4ed075-9a0c-4de9-9da3-04d2bd1e1b5f.png)
 
