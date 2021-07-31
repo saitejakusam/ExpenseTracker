@@ -16,6 +16,7 @@
 -Make Expenses<br>
 -View Expense History<br>
 -Updates amount based on expense<br>
+-Feedback
 <br>
 <br>
 <h2>Screenshots:</h2><br><br>
