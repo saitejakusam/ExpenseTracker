@@ -1,7 +1,8 @@
 # ExpenseTracker
 
 
-<h2>Website Link : </h2> <p>https://quiet-plateau-64131.herokuapp.com/ </p>
+<h2>Website Link : </h2> <p>https://quiet-plateau-64131.herokuapp.com/ </p><br>
+<h2>Document Link : </h2> <p>https://docs.google.com/document/d/1yqfFhyWNKGXjCBXUyZcKtm3mVFse3FBVAoNAF6v7LNE/edit?usp=sharing </p>
 <h2>Team members :</h2><br>
 1)SaiTeja<br>
 2)Janagam Mrunal Reddy<br>
